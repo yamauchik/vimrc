@@ -1,0 +1,6 @@
+vimrcファイルです。
+
+インストール済みのPlugin
+・vim-ruby
+・vim-rails
+・neocomplcache  
